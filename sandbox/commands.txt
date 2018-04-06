@@ -1,0 +1,9 @@
+commands.txt
+dir1
+dir2
+test test test
+test
+gedit dir1/file1.txt
+gedit dir2/file2.txt
+cp -R sandbox playpen
+
